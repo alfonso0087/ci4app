@@ -1,0 +1,8 @@
+.sampul {
+  width: 100px;
+}
+
+/* Membuat no urut-gambar-judul dan button sejajar secara vertikal */
+.table>tbody>tr>* {
+  vertical-align: middle;
+}
